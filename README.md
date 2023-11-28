@@ -11,7 +11,12 @@ print(d)
 print(e)
 f = input("choose your answer")
 print(f)
-if a := c:
+if a := 'c':
  print("Answer is correct")
 else: 
  print("answer is wrong")
+
+
+ # Function
+ LEN Funtion is used for counting the total no of words
+ 
